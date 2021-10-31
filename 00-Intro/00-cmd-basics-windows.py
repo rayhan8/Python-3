@@ -1,0 +1,7 @@
+# cd (current directory)
+# dir (show directory file)
+# cd Desktop (change directory from current directory to Desktop directory)
+# cd.. (move back to previous directory)
+# mkdir (make directory/folder)
+# cls (clear cmd screen)
+# arrow key up/down (previous/next commands)
